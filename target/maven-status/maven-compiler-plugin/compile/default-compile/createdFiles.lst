@@ -1,0 +1,8 @@
+com\pages\Contactpage.class
+com\qa\util\ExcelReader.class
+com\qa\factory\DriverFactory.class
+com\qa\util\ConfigReader.class
+com\qa\util\Elementutil.class
+com\pages\Loginpage.class
+com\pages\Accountpage.class
+com\qa\util\Constants.class

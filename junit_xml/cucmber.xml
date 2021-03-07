@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="3" time="27.695">
+<testcase classname="Login page feature notes" name="Login page title" time="7.675">
+<system-out><![CDATA[Given user is on logins page................................................passed
+When user gets the title of the page........................................passed
+Then page title should be "Login - My Store"................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Login page feature notes" name="Forgot password link" time="6.615">
+<system-out><![CDATA[Given user is on logins page................................................passed
+Then forgot your password link should be diaplayed..........................passed
+]]></system-out>
+</testcase>
+<testcase classname="Login page feature notes" name="Login with correct  credentials" time="12.769">
+<system-out><![CDATA[Given user is on logins page................................................passed
+When user enters username "vuduthasujatha@gmail.com"........................passed
+And user enters  password "Honey2003".......................................passed
+Then user clicks on Login button............................................passed
+]]></system-out>
+</testcase>
+</testsuite>
